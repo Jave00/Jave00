@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning pytorch,tensorflow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me javes2022@gmail.com
 
 <!---
 Jave00/Jave00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
